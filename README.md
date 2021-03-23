@@ -1,9 +1,9 @@
 👋 Hi, I’m Fred!
 
-🌱 I’m currently learning more about Gatsby, Tailwind, Three.JS!
+🌱 I’m currently learning more about e-Commerce, Gatsby, Tailwind, Three.JS!
 
 Most of my repositories here are from my education at Medieinstituet in Malmö, Sweden. Some are collabs with classmates. 
-Personal website is on the way.
+A personal website is on the way.
 
 
 <!---
