@@ -1,6 +1,6 @@
 👋 Hi, I’m Fred!
 
-🌱 I’m currently working as a consultant for Log & Twig.!
+🌱 I’m currently working as a consultant for Log & Twig.
 
 Most of my repositories here are quite old, from my education at Medieinstituet in Malmö, Sweden. Some are collabs with classmates. 
 
